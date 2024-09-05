@@ -3,5 +3,17 @@ body{
     margin: 0;
     background: #FFF url("https://www.fisheries.noaa.gov/s3//styles/full_width/s3/dam-migration/hawksbill_sea_turtle.jpg?itok=ESbU98wo");
     background-size: cover;
-    
+
+}
+h1 {
+    text-align: center;
+    color: green;
+}
+ol {
+    color: brown;
+    font-size: large;
+}
+li {
+    font-size: medium;
+    color: black;
 }
